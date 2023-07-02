@@ -1,0 +1,22 @@
+@import "./library/reset.scss";
+@import "./library/mixins.scss";
+@import "./header.scss";
+@import "./about.scss";
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@800&display=swap');
+
+
+// ./dart-sass/sass sass/style.scss style.css --watch
+
+// Variable
+$primary:#049;
+// variable non processeur
+%shadow { box-shadow: 10px 10px 5px lightgrey;} 
+
+
+
+
+
+
+
+   
